@@ -1,1 +1,13 @@
-my step org
+№	Point	
+		
+1	Open https://translate.google.com/?hl=uk&sl=uk&tl=en&text=%D1%80%D0%B5%D0%B7%D1%83%D0%BB%D1%8C%D1%82%D0%B0%D1%82%0A&op=translate	Passed/Failed
+2	Language selection drop-down	
+3	test the language of the language to be translated	
+4	Check exchange translate button	
+5	check delete input text button	
+6	check input field	
+7	check voice translator function	
+8	to test the button of reproduction of the written text	
+9	test the field of the translated test	
+10	test the copy text button	
+11	test whether it automatically and correctly determines the language of the entered text	
